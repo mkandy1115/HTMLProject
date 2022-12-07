@@ -1,0 +1,103 @@
+h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 3em;
+    background-color: aliceblue;
+    margin-right: 40%;
+    margin-left: 40%;
+    border-radius: 5px;
+    text-align: center;
+}
+h3{
+    font-family: 'Nunito', sans-serif;
+}
+.card{
+    background-color: aliceblue;
+    border-radius: 5px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-indent: 10px;
+    padding: 5px;
+    
+}
+ol li{
+    font-size: larger;
+}
+ul li{
+    font-size: medium;
+}
+
+body{
+    /* background-image: url(../img/scratchpage/background.jpeg); */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/scratchpage/background.jpeg)
+} 
+body{
+    font-family: 'Comfortaa', cursive;
+}
+.FMimg{
+    width: 97%;
+    margin-top: 20px;
+}
+
+.navbar{
+    font-family:'Times New Roman', Times, serif
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(96, 80, 78);
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+
+.navbar li:hover{
+    background-color: rgb(48, 195, 143);
+
+}
+a{
+    color: rgb(0, 166, 255);
+}
+a :hover{
+    text-decoration-color: rgb(255, 38, 0);
+}
+#lastlink{
+    font-size: 1.5em;
+}
+ #fimg{
+    position: relative;
+    
+}
+#simg{
+    position: relative;
+}
+#timg{
+    position: relative;
+    
+} 
+#ficon{
+    position: relative;
+    left: 20%;
+}
+#sicon{
+    position: relative;
+    right: 20%;
+}
+#ticon{
+    position: relative;
+    left: 20%; 
+}
+
