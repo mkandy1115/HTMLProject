@@ -1,2 +1,2 @@
 # HTMLProject
-for a class project
+Portfolio/Resume HTML pages, both using Bootstrap and not using it. 
